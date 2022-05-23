@@ -9,6 +9,7 @@ Using this code base, you can run github actions pipe line which will perform th
   
   
   **What can be configured:**
-  Note: Configuration files can be found in the/conf folder.
   
-  **1) identifiers.txt**: We can configure api identifiers.
+  
+  **1) identifiers.txt**: We can configure api identifiers.<br><br>
+  Note: Configuration files can be found in the/conf folder.
