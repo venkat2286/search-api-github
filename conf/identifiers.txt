@@ -1,0 +1,12 @@
+@GetMapping
+@PostMapping
+@PutMapping
+@PatchMapping
+@DeleteMapping
+@HeadMapping
+@RequestMapping
+.get(
+.post(
+.put(
+.patch(
+.delete(
