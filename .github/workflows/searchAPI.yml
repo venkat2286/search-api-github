@@ -42,3 +42,10 @@ jobs:
         with:
           name: reports
           path: reports
+          
+          
+      - name: Save temp folder
+        uses: actions/upload-artifact@v2
+        with:
+          name: temp
+          path: temp
